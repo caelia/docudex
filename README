@@ -1,0 +1,13 @@
+Docudex is (going to be) a universal documentation manager for Linux/POSIX systems.
+The idea is to be able to access *all* the documentation on your system - regardless
+of whether it's a man page, an info page, HTML, PDF, whatever - with a single command.
+
+The project will initially consist of a core library and two optional user interfaces.
+The software is written in Rust.
+
+Currently, this repo is just a placeholder for the project as a whole. All the
+actual code is contained in the following repos (= Rust crates):
+
+    docudex-core
+    docudex-gtk
+    docudex-nu
