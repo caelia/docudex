@@ -8,6 +8,6 @@ The software is written in Rust.
 Currently, this repo is just a placeholder for the project as a whole. All the
 actual code is contained in the following repos (= Rust crates):
 
-    docudex-core
-    docudex-gtk
-    docudex-nu
+    [docudex-core](https://github.com/caelia/docudex-core)
+    [docudex-gtk](https://github.com/caelia/docudex-gtk)
+    [docudex-nu](https://github.com/caelia/docudex-nu)
